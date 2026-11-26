@@ -57,7 +57,7 @@ python-file-organizer/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Alinps/file_organizer
 ```
 
 ### 2. Navigate to the project directory
